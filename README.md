@@ -10,7 +10,7 @@
 * 🌱 I'm currently learning **LLM orchestration, multi-agent systems, and scalable automation workflows**
 * 👯 I'm looking to collaborate on **AI-powered automation tools, open-source DevTools, and workflow frameworks**
 * 💬 Ask me about **JavaScript, Node.js, React, automation, AI workflows, or n8n**
-* 📫 How to reach me: **[Contact Me](https://www.rajeshdhiman.in/contact)**
+* 📫 How to reach me: **[Contact Me](https://www.rajeshdhiman.in/mentorship)**
 * ⚡ Fun fact: **I once built an entire automation framework just to avoid repetitive testing in my side projects.**
 
 ## 🛠️ Tech Stack
